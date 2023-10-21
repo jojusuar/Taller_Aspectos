@@ -1,4 +1,8 @@
 # Taller_Aspectos
+
+----------José Julio Suárez-------------
+![Screenshot from 2023-10-20 20-55-11](https://github.com/jojusuar/Taller_Aspectos/assets/139071604/c3d98940-3342-4783-9556-c6d146b8e8f9)
+
 ----------Luis Borja-------------
 # El aspect verifica que la mascota este en la lista de usuarios y de que este activa.
 ![Cambios](https://github.com/jojusuar/Taller_Aspectos/assets/139704941/e7694eb4-6792-4dda-a747-431e6de0baef)
