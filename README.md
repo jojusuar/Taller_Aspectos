@@ -1,2 +1,3 @@
 # Taller_Aspectos
-![Screenshot from 2023-10-20 16-58-47](https://github.com/jojusuar/Taller_Aspectos/assets/139071604/69195916-4992-4814-a64b-24955ccac082)
+
+![Screenshot from 2023-10-20 20-55-11](https://github.com/jojusuar/Taller_Aspectos/assets/139071604/c3d98940-3342-4783-9556-c6d146b8e8f9)
