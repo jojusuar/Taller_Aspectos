@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 public class PetStore {
 
-    static ArrayList<User> users = new ArrayList<>();
+    public static ArrayList<User> users = new ArrayList<>();
     private static Scanner input = new Scanner(System.in);
     
     public static void initPetStore(){
@@ -35,8 +35,12 @@ public class PetStore {
             createUser();
         break;
         case 2:
-            System.out.println("Make appointment");
+            try {
+        	System.out.println("Make appointment");
             makeAppointment(); 
+            } catch (RuntimeException r) {
+            	
+            }
         break;
         case 3:
             System.out.println("Update status");
